@@ -12,6 +12,9 @@ Hardware components:
 *Breadboard
 *Relay(5V)
 
+Software:
+*Arduinio IDE https://www.arduino.cc/
+
 
 #EGG INCUBATOR
 The implementation of Smart Egg-Incubator contains the creation of an automated egg incubator which automatically adjust the

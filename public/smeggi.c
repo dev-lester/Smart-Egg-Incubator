@@ -3,7 +3,7 @@
 
 extern volatile unsigned long timer0_overflow_count;
 
-String apiKey = "Q65UJLH3L9GJ6EVM"; // Enter your Write API key from ThingSpeak
+String apiKey = "your API"; // Enter your Write API key from ThingSpeak
 
 const char *ssid = "Bunny"; // replace with your wifi ssid and wpa2 key
 const char *pass = "secrethaha";
